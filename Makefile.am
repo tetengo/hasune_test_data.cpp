@@ -1,5 +1,5 @@
 # Automake Settings
-# Copyright (C) 2020-2021 kaoru  https://www.tetengo.org/
+# Copyright (C) 2020-2022 kaoru  https://www.tetengo.org/
 
 SUBDIRS = \
     main_dict
