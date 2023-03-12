@@ -3,7 +3,7 @@ The Main Dictionary of hasune
 
 This dictionary file is built from the followings:
 
-- [hasune at the revision df6816412e7a9d7ff86b98203cf034da505152dc](https://github.com/tetengo/hasune)
+- [hasune at the revision ee0b6c3f153adb4f51b7bd70591ae3d269f8054a](https://github.com/tetengo/hasune)
 - [UniDic 2.3.0](https://ccd.ninjal.ac.jp/unidic/)
 
 ---
