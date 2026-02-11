@@ -8,4 +8,4 @@ This dictionary file is built from the followings:
 
 ---
 
-Copyright (C) 2020-2025 kaoru  https://www.tetengo.org/
+Copyright (C) 2020-2026 kaoru  https://www.tetengo.org/
